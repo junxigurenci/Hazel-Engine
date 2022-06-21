@@ -1,2 +1,2 @@
-# Hazel-Enegine
+# Hazel-Engine
 Hazel-Engine learning from Youtuber Cherno!
